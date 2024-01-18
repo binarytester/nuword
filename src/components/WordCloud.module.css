@@ -1,0 +1,16 @@
+.fade-in-image {
+    opacity: 0;
+    transition: opacity 0.5s;
+  }
+  
+  .fade-in-image.fade-in {
+    opacity: 1;
+  }
+  
+  .textarea {
+    margin-top: 2%;
+  }
+  
+  .button {
+    margin-top: 1%;
+  }
